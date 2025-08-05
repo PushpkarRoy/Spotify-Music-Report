@@ -107,8 +107,8 @@ Spotify-Dashboard/
 Feel free to reach out for collaboration or feedback:
 
 - 📧 Email: your.email@example.com
-- 💼 [[LinkedIn](https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/pushpkar-roy/))
-- 💻 [[Portfolio/GitHub](https://github.com/yourusername](https://github.com/PushpkarRoy))
+- 💼 [[LinkedIn](https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/pushpkar-roy/))]
+- 💻 [[Portfolio/GitHub](https://github.com/yourusername](https://github.com/PushpkarRoy)])]
 
 ---
 
