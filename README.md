@@ -15,7 +15,7 @@ This project provides a comprehensive **audio feature analysis** of Spotify musi
 
 ## 📊 Key Metrics & KPIs
 
-| Metric                | Description                                  |
+| Metric                | Description                                  |  
 |------------------------|----------------------------------------------|
 | **Total Streams**      | Total stream count across all tracks         |
 | **Energy Level**       | Sum of energy scores indicating intensity    |
