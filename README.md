@@ -19,7 +19,7 @@ This project provides a comprehensive **audio feature analysis** of Spotify musi
 |------------------------|----------------------------------------------|
 | **Total Streams**      | Total stream count across all tracks         |
 | **Energy Level**       | Sum of energy scores indicating intensity    |
-| **Valence**            | Mood positivity of tracks                    |
+| **Valence**            | Mood positivity of tracks                    |   
 | **Tempo**              | Tracks classified by pace (Fast, Moderate…) |
 | **Danceability**       | How dance-friendly each track is            |
 | **Time Duration**      | Total time duration of all tracks            |
