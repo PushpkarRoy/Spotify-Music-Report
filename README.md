@@ -28,7 +28,7 @@ This project provides a comprehensive **audio feature analysis** of Spotify musi
 
 ## 📈 Dashboard Features
 
-- **Interactive Filters**:
+- **Interactive Filters**:  
   - Time Signature Type
   - Instrumentalness Level
   - Valence Level
